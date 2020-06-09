@@ -1,4 +1,5 @@
 # goczmq [![Build Status](https://travis-ci.org/zeromq/goczmq.svg?branch=master)](https://travis-ci.org/zeromq/goczmq) [![Doc Status](https://godoc.org/github.com/zeromq/goczmq?status.png)](https://godoc.org/github.com/zeromq/goczmq)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fgoczmq.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fgoczmq?ref=badge_shield)
 
 ## Introduction
 A golang interface to the [CZMQ v4.2](http://czmq.zeromq.org) API.
@@ -261,3 +262,6 @@ func main() {
 
 ## License
 This project uses the MPL v2 license, see LICENSE
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fgoczmq.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fgoczmq?ref=badge_large)
